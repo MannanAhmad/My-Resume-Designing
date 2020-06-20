@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+
+
+}
+
+.side{
+    /* border: 1px solid black; */
+    width:350px;
+    height: 1500px;
+    background-color: rgb(27, 94, 27);
+}
+section{
+    padding:8px;
+    
+
+}
+h2{padding-top: 30px; 
+    color: whitesmoke;
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sec{
+    margin-top: 20px;
+    /* height: 40%; */
+    /* border: 1px solid white; */
+    opacity: inherit;
+    outline: none;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: rgba(79, 117, 79, 0.411);
+    /* padding-left: 2px; */
+    /* padding-right: 20px; */
+    width: 290px;
+    /* text-align: center; */
+    /* margin-left: 80px; */
+    color: whitesmoke;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ 
+#details{
+    color: whitesmoke;
+    margin-top: 20px;
+    /* padding: 25px; */
+    list-style: none;
+}
+#details li{
+    padding: 15px;
+    /* text-align: center; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, 
+    Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 70px;
+}
+h5,p{ 
+    padding:4px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, 
+    Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 79px;
+}a{text-decoration: none;}
+a:link{
+ color:#ffff;
+}
+a:visited{
+    color:rgb(228, 217, 240);
+}
+a:hover{
+    color:rgb(165, 189, 179);
+}
+a:active{
+    color:red;
+}
+.container {
+    width: 220px; /* Full width */
+    border-radius:10px ;
+    background-color: #ddd; /* Grey background */
+    
+    margin-left: 70px;
+}
+.skills {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align: right; /* Right-align text */
+    padding-top: 1px; /* Add top padding */
+    padding-bottom: 1px; /* Add bottom padding */
+    color: rgb(122, 52, 52); /* White text color */
+    
+  }
+.java {width: 90%; background-color: #ffff;} /* Green */
+.html {width: 85%; background-color:#ffff;} /* Blue */
+.python {width: 80%; background-color:#ffff;} /* Red */
+.js{width: 75%; background-color:#ffff;}
+.css{width: 85%; background-color: #ffff;}
+.django{width: 70%; background-color: #ffff;}
+.blogger{width: 90%; background-color: #ffff;}
+.seo{width: 90%; background-color: #ffff;}
+.android{width: 85%; background-color: #ffff;}
